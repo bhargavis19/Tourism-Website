@@ -1,7 +1,5 @@
 # Tourism-Website
-# 🏔️ Adventure - "Where Every Journey Begins"
 
----
 
 ## 📋 About
 At **Adventure**, we're passionate about travel and adventure. Our mission is to bring the world's wonders closer to you and help you make the most of your travel experiences.  
